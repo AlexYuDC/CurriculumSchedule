@@ -1,0 +1,126 @@
+
+/* Class = "IBUILabel"; text = "6"; ObjectID = "2PA-qr-Y5N"; */
+"2PA-qr-Y5N.text" = "6";
+
+/* Class = "IBUILabel"; text = "1-2节"; ObjectID = "2Ut-WM-Xgk"; */
+"2Ut-WM-Xgk.text" = "1-2节";
+
+/* Class = "IBUILabel"; text = "张小龙"; ObjectID = "3sB-na-Mu1"; */
+"3sB-na-Mu1.text" = "张小龙";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "5vN-2r-N8j"; */
+"5vN-2r-N8j.text" = "1";
+
+/* Class = "IBUILabel"; text = "老师："; ObjectID = "6lk-0Q-swi"; */
+"6lk-0Q-swi.text" = "老师：";
+
+/* Class = "IBUIBarButtonItem"; title = "扫一扫"; ObjectID = "A4z-LT-FvW"; */
+"A4z-LT-FvW.title" = "扫一扫";
+
+/* Class = "IBUILabel"; text = "9"; ObjectID = "BKp-Zp-Qx5"; */
+"BKp-Zp-Qx5.text" = "9";
+
+/* Class = "IBUILabel"; text = "课程名"; ObjectID = "CVD-rS-iVi"; */
+"CVD-rS-iVi.text" = "课程名";
+
+/* Class = "IBUILabel"; text = "5"; ObjectID = "CWv-3g-P5W"; */
+"CWv-3g-P5W.text" = "5";
+
+/* Class = "IBUILabel"; text = "星期一"; ObjectID = "F8d-2q-3P1"; */
+"F8d-2q-3P1.text" = "星期一";
+
+/* Class = "IBUINavigationItem"; title = "课程表"; ObjectID = "FG0-o9-ACd"; */
+"FG0-o9-ACd.title" = "课程表";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "Mqh-L3-F8b"; */
+"Mqh-L3-F8b.text" = "3";
+
+/* Class = "IBUILabel"; text = "星期二"; ObjectID = "PTe-sY-AmI"; */
+"PTe-sY-AmI.text" = "星期二";
+
+/* Class = "IBUIButton"; normalTitle = "设置"; ObjectID = "U9e-jM-VGf"; */
+"U9e-jM-VGf.normalTitle" = "设置";
+
+/* Class = "IBUILabel"; text = "星期日"; ObjectID = "UgU-3G-bRt"; */
+"UgU-3G-bRt.text" = "星期日";
+
+/* Class = "IBUINavigationItem"; title = "今日课表"; ObjectID = "V92-V5-KcB"; */
+"V92-V5-KcB.title" = "今日课表";
+
+/* Class = "IBUIButton"; normalTitle = "点击直接创建新课程"; ObjectID = "VMe-fP-uOd"; */
+"VMe-fP-uOd.normalTitle" = "点击直接创建新课程";
+
+/* Class = "IBUILabel"; text = "地点："; ObjectID = "WRE-p0-4lf"; */
+"WRE-p0-4lf.text" = "地点：";
+
+/* Class = "IBUILabel"; text = "4"; ObjectID = "Wb7-Xf-zza"; */
+"Wb7-Xf-zza.text" = "4";
+
+/* Class = "IBUILabel"; text = "7"; ObjectID = "Wce-6f-naW"; */
+"Wce-6f-naW.text" = "7";
+
+/* Class = "IBUINavigationItem"; title = "分享"; ObjectID = "Y6Q-wT-t9o"; */
+"Y6Q-wT-t9o.title" = "分享";
+
+/* Class = "IBUILabel"; text = "基础教学楼112"; ObjectID = "YCX-s8-ggY"; */
+"YCX-s8-ggY.text" = "基础教学楼112";
+
+/* Class = "IBUILabel"; text = "课程："; ObjectID = "agf-Ki-wV6"; */
+"agf-Ki-wV6.text" = "课程：";
+
+/* Class = "IBUIButton"; normalTitle = "添加"; ObjectID = "ark-hP-PJJ"; */
+"ark-hP-PJJ.normalTitle" = "添加";
+
+/* Class = "IBUILabel"; text = "AM"; ObjectID = "bmo-uC-75v"; */
+"bmo-uC-75v.text" = "AM";
+
+/* Class = "IBUILabel"; text = "8"; ObjectID = "dIg-12-9Hi"; */
+"dIg-12-9Hi.text" = "8";
+
+/* Class = "IBUILabel"; text = "时间："; ObjectID = "dW6-Kv-O7Y"; */
+"dW6-Kv-O7Y.text" = "时间：";
+
+/* Class = "IBUINavigationItem"; title = "课程添加"; ObjectID = "eYn-3X-bwq"; */
+"eYn-3X-bwq.title" = "课程添加";
+
+/* Class = "IBUILabel"; text = "星期五"; ObjectID = "eaX-Lt-0My"; */
+"eaX-Lt-0My.text" = "星期五";
+
+/* Class = "IBUIButton"; normalTitle = "查看本周课程"; ObjectID = "erN-b7-S3s"; */
+"erN-b7-S3s.normalTitle" = "查看本周课程";
+
+/* Class = "IBUISearchBar"; placeholder = "输入课程名，搜索并添加课程"; ObjectID = "ffn-og-8JZ"; */
+"ffn-og-8JZ.placeholder" = "输入课程名，搜索并添加课程";
+
+/* Class = "IBUIButton"; normalTitle = "导入教务系统"; ObjectID = "hoQ-nH-dtI"; */
+"hoQ-nH-dtI.normalTitle" = "导入教务系统";
+
+/* Class = "IBUILabel"; text = "星期六"; ObjectID = "jcJ-kp-gK4"; */
+"jcJ-kp-gK4.text" = "星期六";
+
+/* Class = "IBUILabel"; text = "高等数学"; ObjectID = "kER-ub-Zkv"; */
+"kER-ub-Zkv.text" = "高等数学";
+
+/* Class = "IBUILabel"; text = "星期四"; ObjectID = "kFF-d7-Z7l"; */
+"kFF-d7-Z7l.text" = "星期四";
+
+/* Class = "IBUILabel"; text = "10"; ObjectID = "kcr-j0-IrF"; */
+"kcr-j0-IrF.text" = "10";
+
+/* Class = "IBUIButton"; normalTitle = "分享"; ObjectID = "l1Q-gj-Fw3"; */
+"l1Q-gj-Fw3.normalTitle" = "分享";
+
+/* Class = "IBUILabel"; text = "星期三"; ObjectID = "mzf-ZQ-t29"; */
+"mzf-ZQ-t29.text" = "星期三";
+
+/* Class = "IBUINavigationItem"; title = "设置"; ObjectID = "n5T-5k-8bf"; */
+"n5T-5k-8bf.title" = "设置";
+
+/* Class = "IBUIButton"; normalTitle = "添课"; ObjectID = "p19-iq-8lx"; */
+"p19-iq-8lx.normalTitle" = "添课";
+
+/* Class = "IBUIViewController"; title = "课程表"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "课程表";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "ztR-7C-Oe4"; */
+"ztR-7C-Oe4.text" = "2";
